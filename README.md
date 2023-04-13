@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 
 ## I'm a Computer Engineering student
 
-- Web Dev
+- Full Stack web development
 - Graphic Design
-- Video Editing
+- Exploring devOps (AWS and Docker )
+- Content Creation ( Youtube )
 
 <h3 align="left">@Contact</h3>
 <a href = "https://np.linkedin.com/in/nitesh-swarnakar-75411a142">@linkedin </a>
