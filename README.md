@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 - Exploring devOps (AWS and Docker )
 - Content Creation ( Youtube )
 
-<h3 align="left">@Contact</h3>
-<a href = "https://np.linkedin.com/in/nitesh-swarnakar-75411a142">@linkedin </a>
-<a href = "https://www.facebook.com/nitesh.sunar/">@facebook</a>
-<a href = "https://www.instagram.com/iamniteshswarnakar/">@instagram</a>
+<h3 align="left">Contact</h3>
+<a href = "https://np.linkedin.com/in/nitesh-swarnakar-75411a142">@Linkedin </a>
+<a href = "https://www.facebook.com/nitesh.sunar/">@Facebook</a>
+<a href = "https://www.instagram.com/iamniteshswarnakar/">@Instagram</a>
+<a href = "https://www.instagram.com/iamniteshswarnakar/](https://www.youtube.com/channel/UC1TV12WBhgkRHc7ACXlA0hg">@Youtube</a>
 
-[website]: https://rohanchhetry.com.np
-[twitter]: https://twitter.com/rohanchhetry9
-[youtube]: https://www.youtube.com/channel/UChsgwLNqdFtZmZ38xVgcwqQ
-[instagram]: https://www.instagram.com/rohan.xtry/
-[linkedin]: https://www.linkedin.com/in/rohan-chhetry-0b56061a6/
+[facebook]: https://twitter.com/rohanchhetry9](https://www.facebook.com/nitesh.sunar/
+[youtube]: https://www.youtube.com/channel/UC1TV12WBhgkRHc7ACXlA0hg
+[instagram]: https://www.instagram.com/iamniteshswarnakar/
+[linkedin]: https://www.linkedin.com/in/nitesh-swarnakar-75411a142/?originalSubdomain=np
 
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niteshswarnakar&theme=radical)
