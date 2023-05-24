@@ -24,8 +24,13 @@ Here are some ideas to get you started:
 <a href = "https://www.instagram.com/iamniteshswarnakar/](https://www.youtube.com/channel/UC1TV12WBhgkRHc7ACXlA0hg">@Youtube</a>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/NiteshSwarnakar)
-
-[facebook]: https://twitter.com/rohanchhetry9](https://www.facebook.com/nitesh.sunar/
+[
+![Facebook
+](
+https://img.shields.io/badge/-Facebook-%231877F2?style=flat&logo=facebook&logoColor=white
+)](
+https://www.facebook.com/nitesh.sunar/
+)
 [youtube]: https://www.youtube.com/channel/UC1TV12WBhgkRHc7ACXlA0hg
 [instagram]: https://www.instagram.com/iamniteshswarnakar/
 [linkedin]: https://www.linkedin.com/in/nitesh-swarnakar-75411a142/?originalSubdomain=np
