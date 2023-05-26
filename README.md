@@ -24,5 +24,3 @@ Here are some ideas to get you started:
 [![YouTube](https://img.shields.io/badge/-YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1TV12WBhgkRHc7ACXlA0hg)
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/NiteshSwarnakar)
 [![Facebook](https://img.shields.io/badge/-Facebook-%231877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/nitesh.sunar/)
-
-![Nitesh Swarnakar](https://github-readme-stats.vercel.app/api?username=niteshswarnakar&show_icons=true)
