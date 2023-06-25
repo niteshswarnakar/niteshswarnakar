@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - Full Stack web development
 - Graphic Design
-- Exploring devOps (AWS and Docker )
+- Exploring devOps (AWS and Docker ) also exploring GO-lang nowadays
 - Content Creation ( Youtube )
 
 <h3 align="left">Contact</h3>
