@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 
 ## I'm a Computer Engineering Graduate
 
-- Full Stack web development
+- Full Stack web development (Golang and Reactjs)
 - Graphic Design
-- Exploring devOps (AWS and Docker ) also exploring GO-lang nowadays
 - Content Creation ( Youtube )
+- Golang, Python, Javascript and TypeScript
 
 <h3 align="left">Contact</h3>
 
