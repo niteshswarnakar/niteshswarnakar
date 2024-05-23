@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 ## I'm a Computer Engineering Graduate
 
 - Full Stack web development (Golang and Reactjs)
-- Graphic Design
 - Content Creation ( Youtube )
 - Golang, Python, Javascript and TypeScript
 
