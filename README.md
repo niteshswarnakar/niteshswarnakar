@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 
 ## I'm a Computer Engineering Graduate
 
-- Full Stack web development (Golang and Reactjs)
+- Backend Web Developer (Golang)
 - Content Creation ( Youtube )
-- Golang, Python, Javascript and TypeScript
+- Also exploring Nextjs, Python
 
 <h3 align="left">Contact</h3>
 
