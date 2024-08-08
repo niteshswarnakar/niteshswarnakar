@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Contact</h3>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/iamniteshswarnakar/)
+**[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/iamniteshswarnakar/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh-swarnakar-75411a142/?originalSubdomain=np/)
 [![YouTube](https://img.shields.io/badge/-YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1TV12WBhgkRHc7ACXlA0hg)
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/NiteshSwarnakar)
