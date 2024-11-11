@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshswarnakar&label=Profile%20views&color=0e75b6&style=flat" alt="niteshswarnakar" /> </p>
 
-## I'm a Computer Engineering Graduate
+## I'm a Computer Engineering Graduate.
 
 - Backend Web Developer (Golang and Python)
 - Content Creation ( Youtube )
