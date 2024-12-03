@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ## I'm a Computer Engineering Graduate.
 
-- Backend Web Developer (Golang and Python)
+- Backend Developer (Golang and Python)
 - Content Creation ( Youtube )
 - Also exploring Nextjs, Python
 
