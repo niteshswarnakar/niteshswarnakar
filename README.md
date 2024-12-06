@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - Backend Developer (Golang and Python)
 - Content Creation ( Youtube )
-- Also exploring Nextjs, Python
+- Also exploring Nextjs, DevOps
 
 <h3 align="left">Contact</h3>
 
