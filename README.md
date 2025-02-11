@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshswarnakar&label=Profile%20views&color=0e75b6&style=flat" alt="niteshswarnakar" /> </p>
 
-## I'm a Computer Engineering Graduate.
+## I am Computer Engineer who can build Backend Server and Microservices.
 
 - Software Engineer (Golang and Python)
 - Also exploring Nextjs, DevOps
