@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 
 ## I'm a Computer Engineering Graduate.
 
-- Backend Developer (Golang and Python)
-- Content Creation ( Youtube )
+- Software Engineer (Golang and Python)
 - Also exploring Nextjs, DevOps
 
 <h3 align="left">Contact</h3>
