@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 -->
 
-# I am Nitesh Swarnakar 👋
+# Nitesh Swarnakar 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshswarnakar&label=Profile%20views&color=0e75b6&style=flat" alt="niteshswarnakar" /> </p>
 
