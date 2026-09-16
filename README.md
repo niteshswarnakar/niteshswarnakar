@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 
 ## I am computer engineer who can build scalable backend servers and microservices.
 
-- Software Engineer (Golang and Python)
-- Also exploring Nextjs, DevOps
+- Software Engineer (Golang, Postgres, Kubernetes and AWS)
+- Also exploring Nextjs, Machine Learning
 
 <h3 align="left">Contact</h3>
 
