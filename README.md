@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ## I am computer engineer who can build scalable backend servers and microservices.
 
 - Software Engineer (Golang, Postgres, Kubernetes and AWS)
-- Also exploring Nextjs, Machine Learning
+- Also exploring Nextjs, Agentic AI and DevOps.
 
 <h3 align="left">Contact</h3>
 
